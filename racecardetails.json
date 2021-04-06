@@ -1,0 +1,47 @@
+[
+  {
+    "make": "Ferrari",
+    "driver": "Charles Leclerc",
+    "speed": 150
+  },
+  {
+    "make": "Mclaren",
+    "driver": "Carlos Sainz",
+    "speed": 190
+  },
+  {
+    "make": "Renault",
+    "driver": "Daniel Ricciardo",
+    "speed": 130
+  },
+  {
+    "make": "Mercedes",
+    "driver": "Lewis Hamilton",
+    "speed": 360
+  },
+  {
+    "make": "Red Bull",
+    "driver": "Max Verstappen",
+    "speed": 300
+  },
+  {
+    "make": "Ferrari",
+    "driver": "Sebastian Vettel",
+    "speed": 270
+  },
+  {
+    "make": "Mercedes",
+    "driver": "Valtteri Bottas",
+    "speed": 280
+  },
+  {
+    "make": "Honda",
+    "driver": "Sebastian Vettel",
+    "speed": 250
+  },
+  {
+    "make": "Chevrolet",
+    "driver": "Valtteri Bottas",
+    "speed": 290
+  }
+]
